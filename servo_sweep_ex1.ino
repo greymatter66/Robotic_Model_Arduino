@@ -1,7 +1,7 @@
 /* The following is a quick sketch to establish control of the servo and to test
  *  a sweeping movement both in 90 degree increments and 45 degree increments over
  *  a 180 degree range.
- *  Greymatter66 - Aug 7th 2020
+ *  Greymatter66 - Aug 7th 2020.
  */
  
 #include<Servo.h>         //Include Servo library.
